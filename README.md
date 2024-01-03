@@ -1,2 +1,2 @@
 # Project-1
-Music Genre Finder Application
+Music finder basede off users preferred genres.
